@@ -1,7 +1,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Seza</h1>
-<h3 align="center">I'm a Computer Engineer</h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=D25387F0&center=true&vCenter=true&width=435&lines=I'm+a+Computer+Engineer+-+Java+Developer" alt="Typing SVG" /></a></h3>
+
 
 <p><img align="right" src="https://user-images.githubusercontent.com/38151013/219787124-b1a86fd7-0ee9-4ba3-8253-8d186d765089.gif" width="530" height="400" alt="se" /></p>
 
